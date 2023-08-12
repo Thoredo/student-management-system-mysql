@@ -17,7 +17,6 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtGui import QAction, QIcon
 import sys
-import sqlite3
 import mysql.connector
 from dotenv import load_dotenv
 import os
